@@ -8,7 +8,7 @@ Generate customizable dummy data arrays with ease! `@yogesh.exe/dummy-data` is a
 ## Installation
 
 ```bash
-npm install dummy-datalizer
+npm install @yogesh.exe/dummy-data
 ```
 
 ## Usage
