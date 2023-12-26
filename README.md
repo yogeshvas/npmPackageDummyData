@@ -11,7 +11,7 @@ Generate customizable dummy data arrays with ease! `@yogesh.exe/dummy-data` is a
 npm install dummy-datalizer
 ```
 
-##Usage
+## Usage
 
 ```bash
 const genrateData = require('@yogesh.exe/dummy-data');
