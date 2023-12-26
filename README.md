@@ -26,6 +26,14 @@ const dummyData = genrateData(5, fields);
 console.log(dummyData);
 ```
 
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contributing
+If you would like to contribute to this project, please follow the Contributing Guidelines.
+
+Author
+Yogesh Khair Vashisth.
 
 
 
