@@ -1,0 +1,19 @@
+{
+  "name": "dummy-data",
+  "version": "1.0.0",
+  "description": "Provides you an array of customizable dummy objects of type string, number and url, for the testing and production purpose, that reduces the manual effort of making dummy data, searching image urls and brain storming different attributes. This will definately boost up the devlopment workflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yogesh Khair Vashisth",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "faker": "^6.6.6"
+  }
+}
